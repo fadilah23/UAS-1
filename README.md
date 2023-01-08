@@ -38,7 +38,7 @@ input_data yang meminta pengguna memasukkan data.
 
 # Penjelasan Program
 
-    . Pertama buat Package yang berisi file  Model yang didalamnya meliputi 
+    - Pertama buat Package yang berisi file  Model yang didalamnya meliputi 
     
     __init__.py dan daftar_nilai.py dan file view meliputi __init__.py, 
     
