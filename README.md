@@ -84,7 +84,23 @@ input_data yang meminta pengguna memasukkan data.
    ![Screenshot (34)](https://user-images.githubusercontent.com/115637858/211178897-22ec1666-e057-4008-bf51-65547608c333.png)
 
    ![Screenshot (35)](https://user-images.githubusercontent.com/115637858/211178918-67ddb2d5-70c9-4c11-b6bf-2142db3fda27.png)
+   
+   ## Hapus data
+   
+   ![Screenshot (36)](https://user-images.githubusercontent.com/115637858/211178993-5bd2633e-8944-4238-a385-3790b0179bd2.png)
+   
+   ## Ubah data
 
+    ![Screenshot (37)](https://user-images.githubusercontent.com/115637858/211179005-eaec7bbb-1788-4612-9ddc-21552c0db89f.png)
+    
+    ## Cari data dan Keluar
+
+    ![Screenshot (38)](https://user-images.githubusercontent.com/115637858/211179018-c053a55b-9e42-4a2d-9ff0-8883ca182f46.png)
+
+    ![Screenshot (39)](https://user-images.githubusercontent.com/115479946/211178853-f12ad007-db9a-448d-a9c2-a433b199a4f9.png)
+    
+    
+    ## Sekian Dan Terima Kasih
 
 
 
