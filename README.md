@@ -61,7 +61,8 @@ input_data yang meminta pengguna memasukkan data.
 
     Dibawah ini script daftar_nilai.py :
     
-    ![Gambar (30)](gambar/Screenshot (30).png)
+    ![Screenshot (30)](https://user-images.githubusercontent.com/115637858/211178402-117679d0-69ec-46c9-bb65-63049451131c.png)
+
 
 
 
