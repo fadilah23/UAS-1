@@ -96,7 +96,7 @@ input_data yang meminta pengguna memasukkan data.
     
     ## Cari data dan Keluar
 
-    
+    ![Screenshot (38)](https://user-images.githubusercontent.com/115479946/211179299-26a06e85-447a-49d7-a281-159aa08ec5f1.png)
     
     ## Sekian Dan Terima Kasih
 
