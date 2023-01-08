@@ -60,8 +60,7 @@ input_data yang meminta pengguna memasukkan data.
    . Buat fungsi data yang berada di modul daftar_niali.py berupa tambah-data, ubah_data, hapus_data, cari_data
 
     Dibawah ini script daftar_nilai.py :
-    
-    ![Screenshot (30)](https://user-images.githubusercontent.com/115637858/211178402-117679d0-69ec-46c9-bb65-63049451131c.png)
+   ![Screenshot (30)](https://user-images.githubusercontent.com/115479946/211178472-83a86efe-7c63-4a3d-8669-fde26e4ec6b0.png)
 
 
 
