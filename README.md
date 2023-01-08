@@ -76,6 +76,15 @@ input_data yang meminta pengguna memasukkan data.
     Dibawah script view_nilai.py :
    
    ![Screenshot (33)](https://user-images.githubusercontent.com/115637858/211178787-43b6db6a-749e-447f-95c9-e91e8c7a78d4.png)
+   
+   # OUTPUT PROGRAM
+   
+   ## Tambah data
+   
+   ![Screenshot (34)](https://user-images.githubusercontent.com/115637858/211178897-22ec1666-e057-4008-bf51-65547608c333.png)
+
+   ![Screenshot (35)](https://user-images.githubusercontent.com/115637858/211178918-67ddb2d5-70c9-4c11-b6bf-2142db3fda27.png)
+
 
 
 
