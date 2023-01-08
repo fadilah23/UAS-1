@@ -100,7 +100,7 @@ input_data yang meminta pengguna memasukkan data.
 
 
 
-    ![Screenshot (39)](https://user-images.githubusercontent.com/115479946/211178853-f12ad007-db9a-448d-a9c2-a433b199a4f9.png)
+    ![Screenshot (39)](https://user-images.githubusercontent.com/115479946/211179243-b57b8946-71b2-43b3-9ca6-5fbe6c9fc8a0.png)
     
     
     ## Sekian Dan Terima Kasih
