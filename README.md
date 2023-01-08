@@ -42,7 +42,7 @@ input_data yang meminta pengguna memasukkan data.
 
     Dibawah ini script Main.py :
 
-    ![Screenshot (28)](https://user-images.githubusercontent.com/115637858/211167771-2fd13486-c3ff-4e96-acd2-b44196f610ef.png)
+  ![Screenshot (28)](https://user-images.githubusercontent.com/115479946/211177626-c9fbed40-cd1c-4ff2-9a9c-38bd5108bfef.png)
 
     ![Screenshot (29)](https://user-images.githubusercontent.com/115637858/211167779-b05bf52a-d88a-4b25-a2d6-dcc42f0c2f3b.png)
 
